@@ -6,7 +6,6 @@ Welcome to the **Rossmann Store Sales Prediction** project! This repository cont
 
 The competition task is to predict daily sales for Rossmann stores using various machine learning models. The dataset includes historical sales, store details, promotional activities, and weather conditions.
 
-()
 
 ### Models Used:
 - **Linear Models** 📉: For initial regression and baseline predictions.

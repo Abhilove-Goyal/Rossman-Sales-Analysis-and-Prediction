@@ -9,12 +9,13 @@ The competition task is to predict daily sales for Rossmann stores using various
 
 ### Models Used:
 - **Linear Models** 📉: For initial regression and baseline predictions.
+- **Linear Models** 📊: Linear Regression, Ridge , Lasso, Elastic Net.
 - **Decision Trees** 🌳: To capture non-linear relationships and analyze feature importance.
 - **Random Forests** 🌲: An ensemble model to improve accuracy and prevent overfitting.
 
 ### Key Goals:
 - 🔍 **Analyze Historical Sales**: Understand trends, seasonal patterns, and effects of promotions.
-- ✨ **Feature Engineering**: Create new features based on promotions, holidays, and weather.
+- ✨ **Feature Engineering**: Create new features based on promotions, holidays, and dates.
 - 🔮 **Sales Prediction**: Build predictive models to forecast future sales.
 
 ## 🗃 Dataset
